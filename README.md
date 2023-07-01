@@ -1,0 +1,7 @@
+# SwiftUI-WeatherApp-Animated
+
+### Pet project to learn SwiftUI
+
+Video-based application with the AVKit framework and the Pexels API
+
+Thanks to [designcode.io] for the tutorial
